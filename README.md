@@ -30,7 +30,7 @@ I'm a Software Engineer focused on building reliable, scalable, and maintainable
 - React.js, Next.js, React Native, TypeScript, JavaScript
 
 **Backend**
-- Node.js, Express.js, NestJS, Laravel
+- Node.js, Express.js, NestJS, Laravel, Java, Java spring boot
 - REST APIs, authentication, authorization
 
 **Databases**
@@ -52,5 +52,5 @@ Check out my repositories for projects involving backend development, web applic
 
 I'm interested in collaborating on meaningful software projects, backend engineering, and scalable application development.
 
-- LinkedIn: https://www.linkedin.com/in/alkesh-raj-511b94346/
+- LinkedIn: https://www.linkedin.com/in/alkesh-raj
 - GitHub: https://github.com/AlkeshRaj10
