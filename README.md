@@ -34,7 +34,7 @@ I'm a Software Engineer passionate about building **scalable, maintainable, and 
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,ts,js,html,css,tailwind" alt="Frontend technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" alt="Frontend technologies"/>
 </p>
 
 ### ⚙️ Backend Development
