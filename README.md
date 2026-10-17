@@ -51,7 +51,7 @@ I enjoy solving engineering problems, designing APIs, working with databases, an
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,ts,js,html,css,tailwind" alt="Frontend technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" alt="Frontend technologies"/>
 </p>
 
 ### ⚙️ Backend Development
