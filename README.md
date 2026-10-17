@@ -1,7 +1,7 @@
 <!-- ==================== ANIMATED HEADER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1D4ED8,70:7C3AED,100:06B6D4&height=230&section=header&text=Alkesh%20Raj&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20System%20Design&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Alkesh Raj - Software Engineer"/>
+ Alkesh Raj - Software Engineer
 </p>
 
 <p align="center">
